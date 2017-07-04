@@ -1,4 +1,8 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem or Wolfman
+<<<<<<< HEAD
 But the Mummy will appreciate the lack of humidity
 Ill considered oxygen needed
+=======
+Collaborating is the way to go
+>>>>>>> dc272546a0b924fa30ce276cd98c1151c371daa4
